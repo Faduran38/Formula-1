@@ -1,2 +1,2 @@
 # Formula-1
-We will look into the drivers of Formula 1 and what their stats are.
+In these worksheets, I really wanted to determine which driver all the way up to 2017 was the best. In worksheet 1 I took the driver ID, their name and counted their fastest lap speed, not only that by to reduce how much data we were looking at, I only took the top 14 drivers. In worksheet 2 I did the same thing and only took 10 drivers that performed the best and got the most points. In worksheet 3 I wanted to see the top 10 drivers and see who had the most career wins. It varied. Finally, I made a dashboard for all 3 of these worksheets. 
